@@ -70,8 +70,17 @@ function App() {
         <div className="skillRow">
           <h3>Backend</h3>
           <div>
-            <span>Java</span><span>TypeScript</span><span>JavaScript</span><span>Spring Boot</span><span>Microservices</span><span>REST APIs</span>
-            <span>Spring Data JPA</span><span>Spring Security</span><span>Concurrency</span><span>Design Patterns</span>
+            <span>Java</span><span>Spring Boot</span><span>Node.js</span><span>Microservices</span>
+            <span>REST APIs</span><span>Spring Data JPA</span><span>Spring Security</span>
+            <span>Camunda</span><span>BPMN</span><span>Concurrency</span><span>Design Patterns</span>
+          </div>
+        </div>
+
+        <div className="skillRow">
+          <h3>Frontend</h3>
+          <div>
+            <span>React</span><span>TypeScript</span><span>JavaScript</span><span>HTML</span>
+            <span>CSS</span><span>REST API Integration</span>
           </div>
         </div>
 
