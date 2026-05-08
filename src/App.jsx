@@ -70,7 +70,7 @@ function App() {
         <div className="skillRow">
           <h3>Backend</h3>
           <div>
-            <span>Java</span><span>Spring Boot</span><span>Microservices</span><span>REST APIs</span>
+            <span>Java</span><span>TypeScript</span><span>JavaScript</span><span>Spring Boot</span><span>Microservices</span><span>REST APIs</span>
             <span>Spring Data JPA</span><span>Spring Security</span><span>Concurrency</span><span>Design Patterns</span>
           </div>
         </div>
@@ -220,12 +220,12 @@ function App() {
 
           <div className="projectCard">
             <p className="projectType">TESTING FRAMEWORK</p>
-            <h3>Playwright E2E Framework</h3>
-            <p>UI and API automation framework with reusable test structure, scalable execution, and CI-ready testing approach.</p>
+            <h3>Playwright Automation Framework</h3>
+            <p>Built scalable UI and API automation framework using Playwright, TypeScript, and Node.js.</p>
             <ul>
-              <li>Playwright browser automation</li>
-              <li>Reusable test structure and API validations</li>
-              <li>Reliability checks for critical user flows</li>
+              <li>UI & API automation testing</li>
+              <li>Reusable POM structure</li>
+              <li>CI/CD integrated execution</li>
             </ul>
             <a href="https://github.com/vineet21tiwari/playwright-e2e-framework" target="_blank" rel="noreferrer">View GitHub →</a>
           </div>
