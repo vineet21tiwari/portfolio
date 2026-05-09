@@ -37,7 +37,7 @@ function App() {
             </p>
 
             <div className="actions">
-              <a className="primaryBtn" href={resumeFile} download="Vineet_Tiwari_Senior_Backend_Engineer.pdf">
+              <a className="primaryBtn" href={resumeFile} download="CV_Vineet_Tiwari_Senior Software Engineer.pdf">
                 ⬇ Download Resume
               </a>
               <a href="https://github.com/vineet21tiwari" target="_blank" rel="noreferrer">🐙 GitHub</a>
